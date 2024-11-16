@@ -1,0 +1,4 @@
+Feature_Based_PreProcess.ipynb (Notebook: Includes list of features and some additional feature generation using RDkit)
+Activating_Molecules.txt ( All activating molecules processed file )
+Combined_Data ( Processed data file containing all the activating and deactivating molecules : To be used for the run )
+failed_smiles ( list of smiles that cannot be used. Have been removed from the Combined_Data file.)
