@@ -1,0 +1,4 @@
+Feature_Based_PreProcess : Notbook containing all the steps. Included atom (node) and bond (edge) feature generation using RDkit
+Combined_Data.txt : Data file to be used. ( Removed all the organo-metallic compunds and other compunds for which features couldn't be generated.)
+failed_smiles.csv : SMILES that were deleted
+Activating_Molecules : All the activating compunds. (Contains organometallic compunds and duplicates)
